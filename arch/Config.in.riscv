@@ -71,7 +71,6 @@ choice
 
 config BR2_RISCV_32
 	bool "32-bit"
-	select BR2_USE_MMU
 
 config BR2_RISCV_64
 	bool "64-bit"
