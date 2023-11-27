@@ -31,9 +31,9 @@ index 949edd1..28f3808 100644
  					goto bad_resolved_reloc;
 -#elif defined(TARGET_riscv64)
 +#elif defined(TARGET_riscv64) || defined(TARGET_riscv32)
+				case R_RISCV_NONE:
  				case R_RISCV_32_PCREL:
- 				case R_RISCV_ADD32:
- 				case R_RISCV_ADD64:
+				case R_RISCV_ADD8:
 diff --git a/ld-elf2flt.c b/ld-elf2flt.c
 index 75ee1bb..68b2a4a 100644
 --- a/ld-elf2flt.c
