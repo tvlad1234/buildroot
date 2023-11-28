@@ -1,3 +1,6 @@
 # Locally calculated
-sha256  735482d8c5fd76191e86ff2d6985dd68c232a7b8bdac11fdb480385c6a75ca8f  elf2flt-2023.09.tar.gz
+# sha256  735482d8c5fd76191e86ff2d6985dd68c232a7b8bdac11fdb480385c6a75ca8f  elf2flt-2023.09.tar.gz
 sha256  f20bc5007904094e3a4e9fbcc3526cdd40893f91d458c3139b308e5c4c0899c6  LICENSE.TXT
+
+sha256 16e10e1c70b7f6e169dbf0d0a6516fceb2ad109a12b9c7dbb99b195cf1a86642  elf2flt-testwith32bit.tar.gz
+
